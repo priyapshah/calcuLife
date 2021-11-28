@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  padding: 10px;
+  font-family: monospace;
+}
+
+h1{
+    color: teal;
+}
+
+div .input {
+    padding: 10px;
+    margin: 10px;
+}
+
+input {
+    margin: 10px
+}
+
+.submit {
+    background-color: teal;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.ans{
+    font-size: xx-large;
+}
